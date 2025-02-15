@@ -8,5 +8,5 @@
   <div align="center"></div>
 </p>
 
-![image](https://github.com/frank-cole/GSORB_SLAM/blob/main/firgue/pipeline.png "GSORB-SLAM pipeline")
+![image](https://github.com/Wancai-ac/GSORB-SLAM/blob/main/firgure/pipeline.png "GSORB-SLAM pipeline")
 Coming soon!
